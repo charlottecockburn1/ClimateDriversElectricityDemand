@@ -5,6 +5,6 @@ Code for paper: Assessing the Climate Drivers of Global Electricity Demand
 
 AssesingDrivers_Final.pynb : Jupyter notebook containing all statistical modeling and figures for the paper. Data can be found here. 
 
-Daily_ERA5_Extractions : Folder containing scripts for extracting daily minimum, maximum, and averages temperature, dew point temperature, and moist enthalpy from the raw ERA5 hourly data, which can be found here. 
+Daily_ERA5_Extractions : Folder containing scripts for extracting daily minimum, maximum, and averages temperature, dew point temperature, and moist enthalpy from the raw ERA5 hourly data, which can be found [here](https://gdex.ucar.edu/datasets/d633000/). 
 
 Monthly_ERA5_Extractions: Folder containing scripts for extracting monthly temperature, cooling degree-days, enthalpy, and seasonal enthalpy climatologies from the intermediate files produced by the daily extractions, which can be found here. 
