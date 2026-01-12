@@ -4,4 +4,6 @@ getting_cdd19_monthly.py : Calculating monthly cooling degree-days (CDDs). CDDs 
 
 getting_ELD_monthly.py : Calculating monthly sum of ELDs for each country
 
+getting_qdd_monthly.py: Calculating monthly averages of moist enthalpy
+
 eld_climatology.py : getting seasonal averages of moist enthalpy over the entire ERA5 grid.
